@@ -1,0 +1,12 @@
+{
+  "name": "Rohil",
+  "score": 11.75,
+  "isAdmin": true,
+  "license": null,
+  "shopItem": ["food", "clothes", "sunFlower oil"],
+  "myObj": {
+    "name": "nested",
+    "age": 24,
+    "shopItem2": ["food", "clothes", { "a": true }]
+  }
+}
